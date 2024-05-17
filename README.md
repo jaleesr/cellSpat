@@ -1,2 +1,2 @@
 # cellSpat
-cell communcation tools
+cell communcation tools. Placeholder for future package.
